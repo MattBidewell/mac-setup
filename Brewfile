@@ -20,7 +20,6 @@ brew "jq" # JSON terminal processor
 # Programming languages
 brew "go"
 brew "nvm" # Node version manager
-brew "skdman" # Java version manager
 brew "terraform"
 brew "vim"
 
@@ -31,7 +30,7 @@ cask "google-chrome"
 cask "notion"
 cask "slack"
 cask "spotify"
-cask "visual-editor-code"
+cask "visual-studio-code"
 cask "whatsapp"
 cask "imageoptim" # image optimisation
 cask "rectangle" # window manager
