@@ -20,3 +20,5 @@ brew bundle
 bash <(curl -fsSL ...)
 ```
 
+## 4 Setup GPG
+Follow https://developer.okta.com/blog/2021/07/07/developers-guide-to-gpg for using existing Yubikey
