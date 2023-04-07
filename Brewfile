@@ -16,6 +16,8 @@ brew "curl"
 brew "grep"
 brew "htop"
 brew "jq" # JSON terminal processor
+brew "tree"
+brew "ripgrep"   
 
 # Programming languages and tools
 brew "go"
