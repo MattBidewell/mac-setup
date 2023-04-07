@@ -37,4 +37,4 @@ cask "visual-studio-code"
 cask "whatsapp"
 cask "imageoptim" # image optimisation
 cask "rectangle" # window manager
-cask "pinentry-mac" # GPG key graphical input
+brew "pinentry-mac" # GPG key graphical input
