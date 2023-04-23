@@ -17,13 +17,12 @@ brew "grep"
 brew "htop"
 brew "jq" # JSON terminal processor
 brew "tree"
-brew "ripgrep"   
+brew "ripgrep"
 
 # Programming languages and tools
 brew "go"
 brew "nvm" # Node version manager
-brew "terraform"
-brew "vim"
+brew "tfenv"
 brew "nvim"
 
 # Graphical applications
