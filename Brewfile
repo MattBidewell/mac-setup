@@ -18,6 +18,8 @@ brew "htop"
 brew "jq" # JSON terminal processor
 brew "tree"
 brew "ripgrep"
+brew "thefuck" # command corrector
+brew "fzf" # fuzzy find
 
 # Programming languages and tools
 brew "go"
