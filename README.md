@@ -16,6 +16,7 @@ cd ../
 ```
 
 ## 3 Add dotfiles
+
 ```sh
 git clone https://github.com/MattBidewell/dot-files
 cd dot-files
@@ -28,3 +29,12 @@ If starting fresh with Yubikey and GPG then follow this [tutorial](https://devel
 
 Else jump to [using gpg keys on multiple computers](https://developer.okta.com/blog/2021/07/07/developers-guide-to-gpg#use-your-gpg-key-on-multiple-computers).
 
+## 5 Clone NVIM Config
+
+Prerequisite is to install [Astrovim](https://astronvim.com/)
+
+Clone [Astrovim config](https://github.com/MattBidewell/astrovim_config)
+
+## Misc
+
+- [Use a Nerd font for terminals](https://www.nerdfonts.com/)
